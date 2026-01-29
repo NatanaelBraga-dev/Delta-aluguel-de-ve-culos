@@ -1,0 +1,9 @@
+#navbartext{
+    display: flex;
+    justify-content: center;
+}
+
+#containerItems{
+    width: fit-content;
+    background-color: white;
+}
